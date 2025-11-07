@@ -43,7 +43,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Select preferred **Language** and **Keyboard layout** → Click **Continue**  
 
 **Screenshot / Output:**  
-
+![Rocky Linux Download](../screenshots/language.jpg)
 **Notes / Errors:**  
 
 #### Step 0.3.2 — Installation Destination
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
