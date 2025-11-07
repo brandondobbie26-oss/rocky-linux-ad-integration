@@ -78,7 +78,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Wait for installation to complete  
 
 **Screenshot / Output:**  
-
+![Rocky Linux Download](../screenshots/begin_installation.jpg)
 **Notes / Errors:**  
 
 #### Step 0.3.6 — Reboot VM
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
