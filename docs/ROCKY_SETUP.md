@@ -96,7 +96,8 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - If logged in as regular user:
 
 ```bash
-su -
+![Rocky Linux Download](../screenshots/login.jpg)
+
 
 
 
