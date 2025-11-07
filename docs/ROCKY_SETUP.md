@@ -70,7 +70,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Click **Done**  
 
 **Screenshot / Output:**  
-
+![Rocky Linux Download](../screenshots/password.jpg)
 **Notes / Errors:**  
 
 #### Step 0.3.5 — Begin Installation
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
