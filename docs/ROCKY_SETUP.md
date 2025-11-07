@@ -61,7 +61,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Click **Done**  
 
 **Screenshot / Output:**  
-
+![Rocky Linux Download](../screenshots/network.jpg)
 **Notes / Errors:**  
 
 #### Step 0.3.4 — Root Password & User Creation
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
