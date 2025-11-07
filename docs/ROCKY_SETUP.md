@@ -84,7 +84,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 #### Step 0.3.6 — Reboot VM
 - Reboot VM after installation  
 - Remove ISO from virtual drive if prompted  
-
+![Rocky Linux Download](../screenshots/rebot.jpg)
 **Screenshot / Output:**  
 
 **Notes / Errors:**  
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
