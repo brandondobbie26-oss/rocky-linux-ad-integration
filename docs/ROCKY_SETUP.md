@@ -13,6 +13,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Download the **Rocky Linux 9.6 DVD ISO** from the official website: [https://rockylinux.org/download/](https://rockylinux.org/download/)  
 
 **Screenshot / Output:**  
+![Rocky Linux Download](../screenshots/rocky_download.jpg)
 
 **Notes / Errors:**  
 
@@ -96,3 +97,4 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
