@@ -52,7 +52,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Click **Done**  
 
 **Screenshot / Output:**  
-![Rocky Linux Download](../screenshots/installation+destiny.jpg)
+![Rocky Linux Download](../screenshots/installation_destiny.jpg)
 **Notes / Errors:**  
 
 #### Step 0.3.3 — Network & Hostname
@@ -97,6 +97,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
 
