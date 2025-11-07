@@ -95,8 +95,8 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Login as root or created user  
 - If logged in as regular user:
 
-```bash
 ![Rocky Linux Download](../screenshots/login.jpg)
+
 
 
 
