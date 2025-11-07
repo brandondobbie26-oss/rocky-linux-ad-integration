@@ -32,7 +32,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
    - Disk: 20GB minimum (preferably 40GB for cPanel)  
 
 **Screenshot / Output:**  
-
+![Rocky Linux Download](../screenshots/rockyvm.jpg)
 **Notes / Errors:**  
 
 ---
@@ -43,7 +43,7 @@ All commands, outputs, errors, and screenshots are documented for educational an
 - Select preferred **Language** and **Keyboard layout** → Click **Continue**  
 
 **Screenshot / Output:**  
-![Rocky Linux Download](../screenshots/rockyvm.jpg)
+
 **Notes / Errors:**  
 
 #### Step 0.3.2 — Installation Destination
@@ -97,5 +97,6 @@ All commands, outputs, errors, and screenshots are documented for educational an
 
 ```bash
 su -
+
 
 
